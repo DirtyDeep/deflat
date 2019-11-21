@@ -97,7 +97,8 @@ Successful! The recovered file: ./target_bogus_recovered
 
 - 安装`python3`
 - 安装`angr`
--update protobuf
+
+-pip 更新protobuf库
 
 ## Reference
 
